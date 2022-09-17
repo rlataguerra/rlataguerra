@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on :
+  * [Sparkle](https://sparkle.builders), a startup studio
+  * [Doppio](https://doppio.sh), a micro-SaaS for a secure and scalable HTML to PDF or Screenshot, think about it like a Puppeteer as a service.
+- 📫 Reach me on twitter : [@renaudl_](https://twitter.com/renaudl_)
+
 <!--
 **rlataguerra/rlataguerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
